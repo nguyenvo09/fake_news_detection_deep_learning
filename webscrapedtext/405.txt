@@ -1,0 +1,94 @@
+Sign up for the Snopes.com newsletter and get daily updates on all the best rumors, news and legends delivered straight to your inbox.
+Know of a rumor you want investigated? Press related inquiry? Lonely and just want to chat?
+
+Select from one of these options to get in touch with us:
+
+			A 1964 campaign ad for President Lyndon B. Johnson featured a purported Republican voter expressing concerns which eerily echoed threads of debate in the GOP in 2016.							See Example( s )
+
+On 8 March 2016, the Facebook page for the web site Quartz shared a video called “Confessions of a Republican,” which was originally a political advertisement from 1964. The clip rapidly gained traction, and along with it skepticism that the viewpoints expressed too neatly echoed political schisms debated during the 2016 election:
+// <![CDATA[
+(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&#038;version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));
+// ]]&gt;
+This “Confessions of a Republican” ad from the 1964 presidential election is going viral, thanks to its uncanny relevance to the 2016 presidential election.
+Posted by Quartz on Tuesday, March 8, 2016
+The speaker (actor Bill Bogert) discussed his lifelong identity as a loyal Republican voter before expressing reservations about the candidacy of then-Senator Barry Goldwater, who unsuccessfully challenged President Lyndon B. Johnson in 1964. Among the concerns he aired (the ad’s full text is at the bottom of the page) were what he described as a tendency of Goldwater to rapidly reverse position or deny statements on key issues, as well as a hawkish attitude during a point in American history when the specter of nuclear destruction loomed:
+The hardest thing for me about this whole campaign is to sort out one Goldwater statement from another. A reporter will go to Senator Goldwater and he’ll say, “Senator, on such and such a day, you said, and I quote, ‘blah blah blah’ whatever it is, end quote.” And then Goldwater says, “Well, I wouldn’t put it that way.” I can’t follow that. Was he serious when he did put it that way? Is he serious when he says I wouldn’t put it that way? I just don’t get it. A President ought to mean what he says.
+President Johnson, Johnson at least is talking about facts … but Goldwater, often, I can’t figure out just what Goldwater means by the things he says. I read now where he says, “A craven fear of death is sweeping across America. What is that supposed to mean? If he means that people don’t want to fight a nuclear war, he’s right. I don’t. When I read some of these things that Goldwater says about total victory, I get a little worried, you know? I wish I was as sure that Goldwater is as against war as I am that he’s against some of these other things. I wish I could believe that he has the imagination to be able to just shut his eyes and picture what this country would look like after a nuclear war.
+That portion alone drew comparisons to a fluctuating GOP identity in 2016, as well as objections raised about Donald Trump within the Republican party. Another excerpt paralleled former Ku Klux Klan Grand Wizard David Duke’s endorsement of Trump in February 2016:
+I wouldn’t have worried so much about party unity because if you unite behind a man you don’t believe in, it’s a lie. I tell you, those people who got control of that convention: Who are they? I mean, when the head of the Ku Klux Klan, when all these weird groups come out in favor of the candidate of my party — either they’re not Republicans or I’m not.
+Bogert concluded by saying that he planned to vote against Goldwater on Election Day, and that his party made a mistake in its choice of nominee. A voiceover then urged viewers to vote for Johnson.
+While it’s true many of the expressed sentiments echoed 2016 election rhetoric, the video was not a modern creation. The first appearance of it we found on the internet dated back to at least 2008 (clicking “transcript” revealed identical text to the video that circulated in 2016). The source for the earlier version was the Museum of the Moving Image, which exhaustively catalogued such media as part of an exhibit called The Living Room Candidate: Presidential Campaign Commercials 1952-2012:
+The Living Room Candidate: Presidential Campaign Commercials 1952-2012 is an online exhibition presenting more than 300 television commercials from every election year since 1952, when the first campaign TV ads aired. The website will be updated through the 2012 election between Mitt Romney and Barack Obama. The site includes a searchable database and features commentary, historical background, election results, and navigation organized by year, type of ad, and issue. There is a playlist feature that allows visitors to select, annotate, and share their own groups of ads, and to view playlists by guest contributors. Each selected commercial is accompanied by a list of related ads. There is a transcript for each ad and a feature that allows visitors to search the entire database by title and by words in the transcripts.
+Remarks on the clip provided further context about the political climate in 1964:
+The margin of Johnson’s landslide victory in 1964 was partly a repudiation of Barry Goldwater’s extreme right-wing views. Goldwater, an Arizona senator and author of the best-selling book The Conscience of a Conservative, won the Republican nomination after a bitter primary campaign against moderate New York Governor Nelson Rockefeller. In his acceptance speech, Goldwater made the infamous statement, “Extremism in the defense of liberty is no vice. Moderation in the pursuit of justice is no virtue.” The assertion, meant as a defense of conservatism, merged in the public consciousness with statements in which Goldwater advocated the use of tactical nuclear weapons in Vietnam and argued that Social Security be made voluntary.
+Film professor and author of the linked book (What’s Fair on the Air: Cold War Right-Wing Broadcasting and the Public Interest) Heather Hendershot said in a 2011 Curator’s Note:
+The right-wing media explosion of the 1960s has largely been lost to history, but we do have some snapshots of liberal responses to Cold War right-wingers in the form of campaign ads produced for the 1964 Johnson presidential campaign. The Democratic National Committee (DNC) used TV and radio to emphasize that Republican nominee Sen. Barry Goldwater was a nut with his finger on the proverbial button—as in LBJ’s infamous “Daisy Ad.” “Confessions of a Republican” is certainly less well-known, and is undoubtedly one of the strangest political campaign ads ever produced. In it, an actor (not identified as such) expresses his extreme anxieties about Goldwater. As he becomes increasingly nervous, he lights a cigarette to steady his nerves, and the camera moves in closer and closer. Who the hell is this sweaty, perturbed Man in a gray flannel suit?
+The spot is long on emotion and short on in-depth information, a tactic that should be familiar to TV viewers who have experienced virtually any mass mediated political campaign. Content-wise, what is of greatest interest is our putative Republican’s concerns about the “weird groups” supporting Goldwater, like the Ku Klux Klan. During the 1964 campaign a strange waltz materialized around the idea of “extremism,” with Goldwater insistent that he was not an extremist and the Johnson campaign insistent that he was. Our confessing Republican, a fantasy created by the DNC, distanced himself from the kooks, while revealing himself to be on the edge of instability himself.
+A 2010 blog post delved into the ad’s historical relevance (describing Goldwater’s campaign as “a naked appeal to Southern white racists to bolt the Democratic Party and support the Republican Party”).  The article was written as race and racism once again became enormous issues in American politics following the 2008 election of the United States’ first black president.
+In November 2014, the actor from the 1964 commercial was interviewed about the “Confessions of a Republican” ad:
+Mr. Bogert himself was a 28 year-old Republican just as fearful of the man his Party put forth to lead the nation as was his semi-fictional character. “No, I certainly did not vote for Barry Goldwater. I voted for Lyndon Johnson. Ask me how long it’s been since I voted for a Republican.” I did. It’s been a long time.
+The interviewer noted that they had presumed that the actor in the Johnson campaign clip was a Democrat, but Bogert said that its producers required an actual Republican star in the spot:
+But just as the agency behind this commercial (Doyle Dane Bernbach) made sure that all of the staff who made this campaign were ardent Democrats, I’d always presumed that the actor in the “Confessions of a Republican” commercial was also a Democrat. Why would a Republican actor sign on to do a commercial at the expense of his own Party?
+“No, I’m a Republican. I just couldn’t stand Barry Goldwater. I was terrified of him … My father was disappointed that I did this commercial. He thought my performance was good, but he disagreed with the entire thesis.”
+I learned that when Bill Bogert interviewed to get the gig, the first question that the ad agency asked the young actor was whether or not he was a Republican. It was a pre-requisite for the gig.
+Not only was the “Confessions of a Republican” ad a legitimate archival clip from the 1964 campaign, but the actor depicted in it was himself a Republican, a casting prerequisite. The clip was likely scripted, but it was not a 2016 creation intended as a critique of the current political discourse.
+[TEXT: Confessions of a Republican]
+REPUBLICAN: I don’t know just why they wanted to call this a confession; I certainly don’t feel guilty about being a Republican. I’ve always been a Republican. My father is, his father was, the whole family is a Republican family. I voted for Dwight Eisenhower the first time I ever voted; I voted for Nixon the last time. But when we come to Senator Goldwater, now it seems to me we’re up against a very different kind of a man. This man scares me.
+Now maybe I’m wrong. A friend of mine just said to me, “Listen, just because a man sounds a little irresponsible during a campaign doesn’t mean he’s going to act irresponsibly.” You know that theory, that the White House makes the man. I don’t buy that. You know what I think makes a President – I mean, aside from his judgement, his experience – are the men behind him, his advisors, the cabinet. And so many men with strange ideas are working for Goldwater. You hear a lot about what these guys are against – they seem to be against just about everything – but what are they for?
+The hardest thing for me about this whole campaign is to sort out one Goldwater statement from another. A reporter will go to Senator Goldwater and he’ll say, “Senator, on such and such a day, you said, and I quote, ‘blah blah blah’ whatever it is, end quote.” And then Goldwater says, “Well, I wouldn’t put it that way.” I can’t follow that. Was he serious when he did put it that way? Is he serious when he says I wouldn’t put it that way? I just don’t get it. A President ought to mean what he says.
+President Johnson, Johnson at least is talking about facts. He says, “Look, we’ve got the tax cut bill and because of that you get to carry home X number of dollars more every payday. We’ve got the nuclear test ban and because of that there is X percent less radioactivity in the food.” But, but Goldwater, often, I can’t figure out just what Goldwater means by the things he says. I read now where he says, “A craven fear of death is sweeping across America. What is that supposed to mean? If he means that people don’t want to fight a nuclear war, he’s right. I don’t. When I read some of these things that Goldwater says about total victory, I get a little worried, you know? I wish I was as sure that Goldwater is as against war as I am that he’s against some of these other things. I wish I could believe that he has the imagination to be able to just shut his eyes and picture what this country would look like after a nuclear war.
+Sometimes, I wish I’d been at that convention at San Francisco. I mean, I wish I’d been a delegate, I really do. I would have fought, you know. I wouldn’t have worried so much about party unity because if you unite behind a man you don’t believe in, it’s a lie. I tell you, those people who got control of that convention: Who are they? I mean, when the head of the Ku Klux Klan, when all these weird groups come out in favor of the candidate of my party — either they’re not Republicans or I’m not.
+I’ve thought about just not voting at this election, just staying home — but you can’t do that, that’s saying you don’t care who wins, and I do care. I think my party made a bad mistake in San Francisco, and I’m going to have to vote against that mistake on the third of November.
+MALE NARRATOR: Vote for President Johnson on November 3rd. The stakes are too high for you to stay home.
+Got a tip or a rumor? Contact us here.
+Filed Under:
+1964
+Barry Goldwater
+campaign ads
++2 more
+confessions of a republican
+lyndon b. johnson
+
+
+Fact Checker:
+Kim LaCapria
+
+Published:9 March 2016
+Updated:9 March 2016
+Ask. Chat. Poke.
+
+6 February 2018
+								Facebook hasn't limited your feed to only a certain number of people, and sharing a post saying otherwise won't make any difference.			
+
+29 November 2017
+								Users of the iPhones running iOS 11 can make use of the feature but should take some precautions.			
+
+8 February 2018
+								Much ado was made on social media about the President's hair after a video aired of his boarding Air Force One on a windy day.			
+
+Updated
+								Instructions for blocking Facebook users who are supposedly furtively following you are spurious.			
+
+24 May 2016
+								Inaccurate warnings about an imminent ban on smoking in vehicles when minors are present have been circulating online since 2016.			
+
+6 February 2018
+								Facebook hasn't limited your feed to only a certain number of people, and sharing a post saying otherwise won't make any difference.			
+
+20 January 2018
+								The unprecedented finger-pointing took place amid a government shutdown and looming government worker furloughs.			
+
+Updated
+								Rumors that service station customers are getting stuck by HIV-loaded syringes affixed to gas pump handles are a hoax.			
+
+23 January 2018
+								Charles and Elizabeth Koch gave nearly half a million dollars to the House Speaker's fundraising committee after passage of the Republican tax bill.			
+
+5 November 2017
+								Reports that the perpetrator carried an Antifa flag and told churchgoers “this is a communist revolution” are fake news.			
+
+We are experiencing some issues with our feedback form. To reach us in the interim, please email contact@teamsnopes.com.
+
+
+We are experiencing some issues with our forms. Our development team is working on a solution.
+

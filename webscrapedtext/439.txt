@@ -1,0 +1,74 @@
+Sign up for the Snopes.com newsletter and get daily updates on all the best rumors, news and legends delivered straight to your inbox.
+Know of a rumor you want investigated? Press related inquiry? Lonely and just want to chat?
+
+Select from one of these options to get in touch with us:
+
+			Wegmans is offering a coupon for $200 off a purchase to Facebook users who complete a short series of steps.							See Example( s )
+
+In late January and early February 2016, Facebook users began sharing the above-reproduced link or similar versions, all of which promised a Wegmans coupon good for $200 off purchases to users who completed a short series of steps.
+The embedded links often pointed to a URL not associated with Wegmans, as in the example above, where the word “Wegmans” appears alongside a lengthy string of unrelated characters. Users who attempted to complete the steps and claim the coupon were directed to a page titled “Wegmans is Giving-away Free $200 Grocery Coupon (limited time offer)”.
+Although the page resembled content hosted on Facebook, the URL didn’t match the social network. The landing page was familiar to all who had encountered similar scams in the past:
+
+On 1 February 2016, Wegmans’ official Facebook page shared the following update warning customers about the coupon scam:
+// <![CDATA[
+(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&#038;version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));
+// ]]&gt;
+***Please Be Aware…We have learned of a false claim circulating Facebook regarding a free $200 grocery coupon. This…
+Posted by Wegmans on Monday, February 1, 2016
+Coupon scams of this variety appear with regularity on Facebook; Kohl’s, Costco, Home Depot, Lowe’s, Kroger, Best Buy, Macy’s, Olive Garden, Publix, Target, and Walmart are among retailers scammers impersonated in order to bait social media users into providing personal information, and recruiting others to do the same.
+A July 2014 Better Business Bureau article warned shoppers about survey and coupon scams operating in that fashion:
+Don’t believe what you see. It’s easy to steal the colors, logos and header of an established organization. Scammers can also make links look like they lead to legitimate websites and emails appear to come from a different sender.
+Legitimate businesses do not ask for credit card numbers or banking information on customer surveys. If they do ask for personal information, like an address or email, be sure there’s a link to their privacy policy.
+When in doubt, do a quick web search. If the survey is a scam, you may find alerts or complaints from other consumers. The organization’s real website may have further information.
+Watch out for a reward that’s too good to be true. If the survey is real, you may be entered in a drawing to win a gift card or receive a small discount off your next purchase. Few businesses can afford to give away $50 gift cards for completing a few questions.
+Got a tip or a rumor? Contact us here.
+Filed Under:
+coupon scam
+coupon scams
+facebook coupons
++1 more
+wegmans
+
+
+Fact Checker:
+Kim LaCapria
+
+Published:1 February 2016
+Updated:1 February 2016
+Ask. Chat. Poke.
+
+6 February 2018
+								Facebook hasn't limited your feed to only a certain number of people, and sharing a post saying otherwise won't make any difference.			
+
+29 November 2017
+								Users of the iPhones running iOS 11 can make use of the feature but should take some precautions.			
+
+8 February 2018
+								Much ado was made on social media about the President's hair after a video aired of his boarding Air Force One on a windy day.			
+
+Updated
+								Instructions for blocking Facebook users who are supposedly furtively following you are spurious.			
+
+24 May 2016
+								Inaccurate warnings about an imminent ban on smoking in vehicles when minors are present have been circulating online since 2016.			
+
+6 February 2018
+								Facebook hasn't limited your feed to only a certain number of people, and sharing a post saying otherwise won't make any difference.			
+
+20 January 2018
+								The unprecedented finger-pointing took place amid a government shutdown and looming government worker furloughs.			
+
+Updated
+								Rumors that service station customers are getting stuck by HIV-loaded syringes affixed to gas pump handles are a hoax.			
+
+23 January 2018
+								Charles and Elizabeth Koch gave nearly half a million dollars to the House Speaker's fundraising committee after passage of the Republican tax bill.			
+
+5 November 2017
+								Reports that the perpetrator carried an Antifa flag and told churchgoers “this is a communist revolution” are fake news.			
+
+We are experiencing some issues with our feedback form. To reach us in the interim, please email contact@teamsnopes.com.
+
+
+We are experiencing some issues with our forms. Our development team is working on a solution.
+
