@@ -1,0 +1,85 @@
+Sign up for the Snopes.com newsletter and get daily updates on all the best rumors, news and legends delivered straight to your inbox.
+Know of a rumor you want investigated? Press related inquiry? Lonely and just want to chat?
+
+Select from one of these options to get in touch with us:
+
+			A student mistook examples of unsolved statistics problems for  a homework assignment and solved them.					
+A legend about the “unsolvable math problem” combines one of the ultimate academic wish-fulfillment fantasies — a student not only proves himself the smartest one in his class, but also bests his professor and every other scholar in his field of study — with a “positive thinking” motif which turns up in other urban legends: when people are free to pursue goals unfettered by presumed limitations on what they can accomplish, they just may manage some extraordinary feats through the combined application of native talent and hard work:
+
+A young college student was working hard in an upper-level math course, for fear that he would be unable to pass. On the night before the final, he studied so long that he overslept the morning of the test.
+When he ran into the classroom several minutes late, he found three equations written on the blackboard. The first two went rather easily, but the third one seemed impossible. He worked frantically on it until — just ten minutes short of the deadline — he found a method that worked, and he finished the problems just as time was called.
+The student turned in his test paper and left. That evening he received a phone call from his professor. “Do you realize what you did on the test today?” he shouted at the student.
+“Oh, no,” thought the student. I must not have gotten the problems right after all.
+“You were only supposed to do the first two problems,” the professor explained. “That last one was an example of an equation that mathematicians since Einstein have been trying to solve without success. I discussed it with the class before starting the test. And you just solved it!”
+
+And this particular version is all the more interesting for being based on a real-life incident!
+One day In 1939, George Bernard Dantzig, a doctoral candidate at the University of California, Berkeley, arrived late for a graduate-level statistics class and found two problems written on the board.  Not knowing they were examples of “unsolved” statistics problems, he mistook them for part of a homework assignment, jotted them down, and solved them.  (The equations Dantzig tackled are more accurately described not as unsolvable problems, but rather as unproven statistical theorems for which he worked out proofs.)  
+ Six weeks later, Dantzig’s statistic professor notified him that he had prepared one of his two “homework” proofs for publication, and Dantzig was given co-author credit on another paper several years later when another mathematician independently worked out the same solution to the second problem. 
+George Dantzig recounted his feat in a 1986 interview for the College Mathematics Journal: 
+
+It happened because during my first year at Berkeley I arrived late one day at one of [Jerzy] Neyman’s classes. On the blackboard there were two problems that I assumed had been assigned for homework. I copied them down. A few days later I apologized to Neyman for taking so long to do the homework — the problems seemed to be a little harder than usual. I asked him if he still wanted it. He told me to throw it on his desk. I did so reluctantly because his desk was covered with such a heap of papers that I feared my homework would be lost there forever. About six weeks later, one Sunday morning about eight o’clock, [my wife] Anne and I were awakened by someone banging on our front door. It was Neyman. He rushed in with papers in hand, all excited: “I’ve just written an introduction to one of your papers. Read it so I can send it out right away for publication.” For a minute I had no idea what he was talking about. To make a long story short, the problems on the blackboard that I had solved thinking they were homework were in fact two famous unsolved problems in statistics. That was the first inkling I had that there was anything special about them.
+A year later, when I began to worry about a thesis topic, Neyman just shrugged and told me to wrap the two problems in a binder and he would accept them as my thesis.
+The second of the two problems, however, was not published until after World War II. It happened this way. Around 1950 I received a letter from Abraham Wald enclosing the final galley proofs of a paper of his about to go to press in the Annals of Mathematical Statistics. Someone had just pointed out to him that the main result in his paper was the same as the second “homework” problem solved in my thesis. I wrote back suggesting we publish jointly. He simply inserted my name as coauthor into the galley proof.
+
+Dr. Dantzig also explained how his story passed into the realm of urban legendry:
+
+The other day, as I was taking an early morning walk, I was hailed by Don Knuth as he rode by on his bicycle. He is a colleague at Stanford. He stopped and said, “Hey, George — I was visiting in Indiana recently and heard a sermon about you in church. Do you know that you are an influence on Christians of middle America?” I looked at him, amazed. “After the sermon,” he went on, “the minister came over and asked me if I knew a George Dantzig at Stanford, because that was the name of the person his sermon was about.”
+The origin of that minister’s sermon can be traced to another Lutheran minister, the Reverend Schuler [sic] of the Crystal Cathedral in Los Angeles. He told me his ideas about thinking positively, and I told him my story about the homework problems and my thesis. A few months later I received a letter from him asking permission to include my story in a book he was writing on the power of positive thinking. Schuler’s published version was a bit garbled and exaggerated but essentially correct. The moral of his sermon was this: If I had known that the problem were not homework but were in fact two famous unsolved problems in statistics, I probably would not have thought positively, would have become discouraged, and would never have solved them.
+
+The version of Dantzig’s story published by  Christian televangelist Robert Schuller contained a good deal of embellishment and misinformation which has since been propagated in urban legend-like forms of the tale such as the one quoted at the head of this page: Schuller converted the mistaken homework assignment into a “final exam” with ten problems (eight of which were real and two of which were “unsolvable”), claimed that “even Einstein was unable to unlock the secrets” of the two extra problems, and erroneously stated that Dantzig’s professor was so impressed that he “gave Dantzig a job as his assistant, and Dantzig has been at Stanford ever since.”
+George Dantzig (himself the son of a mathematician) received a Bachelor’s degree from University of Maryland in 1936 and a Master’s from the University of Michigan in 1937 before completing his Doctorate (interrupted by World War II) at UC Berkeley in 1946.  He later worked for the Air Force, took a position with the RAND Corporation as a research mathematician in 1952, became professor of operations research at Berkeley in 1960, and joined the faculty of Stanford University in 1966, where he taught and published as a professor of operations research until the 1990s.  In 1975, Dr. Dantzig was awarded the National Medal of Science by President Gerald Ford.
+George Dantzig passed away at his Stanford home at age 90 on 13 May 2005.
+Sightings:   This legend is used as the setup of the plot in the 1997 movie Good Will Hunting. As well, one of the early scenes in the 1999 film Rushmore shows the main character daydreaming about solving the impossible question and winning approbation from all.
+Got a tip or a rumor? Contact us here.
+
+Fact Checker:
+David Mikkelson
+
+Published:4 December 1996
+Updated:20 August 2017
+Albers, Donald J. and Constance Reid.   “An Interview of George B. Dantzig: The Father of Linear Programming.”
+    College Mathematics Journal.   Volume 17, Number 4; 1986   (pp. 293-314).
+Brunvand, Jan Harold.   Curses! Broiled Again!
+    New York: W. W. Norton, 1989.    ISBN 0-393-30711-5    (pp. 278-283).
+Dantzig, George B.     “On the Non-Existence of Tests of ‘Student’s’ Hypothesis Having Power Functions Independent of Sigma.”
+    Annals of Mathematical Statistics.   No. 11; 1940   (pp. 186-192).
+Dantzig, George B. and Abraham Wald.   “On the Fundamental Lemma of Neyman and Pearson.”
+    Annals of Mathematical Statistics.   No. 22; 1951   (pp. 87-93).
+Pearce, Jeremy.    “George B. Dantzig Dies at 90.”
+    The New York Times.   23 May 2005.
+
+6 February 2018
+								Facebook hasn't limited your feed to only a certain number of people, and sharing a post saying otherwise won't make any difference.			
+
+29 November 2017
+								Users of the iPhones running iOS 11 can make use of the feature but should take some precautions.			
+
+8 February 2018
+								Much ado was made on social media about the President's hair after a video aired of his boarding Air Force One on a windy day.			
+
+Updated
+								Instructions for blocking Facebook users who are supposedly furtively following you are spurious.			
+
+24 May 2016
+								Inaccurate warnings about an imminent ban on smoking in vehicles when minors are present have been circulating online since 2016.			
+
+6 February 2018
+								Facebook hasn't limited your feed to only a certain number of people, and sharing a post saying otherwise won't make any difference.			
+
+20 January 2018
+								The unprecedented finger-pointing took place amid a government shutdown and looming government worker furloughs.			
+
+Updated
+								Rumors that service station customers are getting stuck by HIV-loaded syringes affixed to gas pump handles are a hoax.			
+
+23 January 2018
+								Charles and Elizabeth Koch gave nearly half a million dollars to the House Speaker's fundraising committee after passage of the Republican tax bill.			
+
+5 November 2017
+								Reports that the perpetrator carried an Antifa flag and told churchgoers “this is a communist revolution” are fake news.			
+
+We are experiencing some issues with our feedback form. To reach us in the interim, please email contact@teamsnopes.com.
+
+
+We are experiencing some issues with our forms. Our development team is working on a solution.
+
