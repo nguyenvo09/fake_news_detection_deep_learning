@@ -1,0 +1,83 @@
+Sign up for the Snopes.com newsletter and get daily updates on all the best rumors, news and legends delivered straight to your inbox.
+Know of a rumor you want investigated? Press related inquiry? Lonely and just want to chat?
+
+Select from one of these options to get in touch with us:
+
+			The night before a Hoboken train crash, an Upstate New York station aired a bizarre and unsettling Emergency Alert System test warning mentioning trains.							See Example( s )
+
+On 29 September 2016, a New Jersey Transit train crashed in Hoboken, killing one person and injuring more than 100. Not long after the accident, rumors appeared of an unsettling Emergency Alert System clip which had purportedly aired on Utica-area television station WKTV the night before:
+ 
+The scrolling EBS message read:
+Civil authorities have issued a Hazardous Materials Warning for The United States. Effective until September 29, 02:16 AM EDT. Would you. Could you. On a Train? Wait for further instructions.
+The station acknowledged that the alert appeared in error on 28 September 2016:
+If you were watching our 6 PM newscast you saw a “Hazardous Materials Warning” message. There is NO such warning. It was a technical error. — WKTV (@WKTV) September 28, 2016
+The outlet also published a brief article about the error on 28 September 2016:
+If you were watching our newscast around 6:17PM or at 10:38PM, you may have seen a “Hazardous Materials Warning” crawl across your screen. There is no such warning. The message was an automated test which was not intended for public display. This message originated from FEMA as a test and had the National Location Code in it. Tests should not have that code as it is automatically re-transmitted. We have contacted New York State Broadcasters Association who administers the Emergency Alert System in New York. We are working with FEMA to resolve this. Our apologies for the confusion this may have caused.
+At 10:53 PM EST on 28 September 2016, WKTV published a post to their Facebook page indicating a second erroneous message had been broadcast:
+UPDATE: Another warning message was sent out in error at 10:38 p.m. There is no emergency. This message originated from FEMA as a test and had the National Location Code in it. Tests should not have that code as it is automatically re-transmitted. We apologize for any inconvenience. 
+Not long after that, WKTV said there was confusion in a comment on a previous post, fueling more rumors:
+FEMA replied that they did not send this out. They will launch a full investigation into how their codes were hacked. WKTV seems to be the only target of this hack. For now, we have disabled the codes in our decoder that trigger this alert. If there is a real National Alert, we will still receive it from the local radio stations we are assigned to monitor. WKTV will cooperate fully with FEMA, providing information about our hardware, software and internet access, and will provide log files from our devices. This information will be helpful to FEMA to track down the source of this hack … We’re in contact with the NYS Broadcasters Association and FEMA.
+Although WKTV’s “would you, could you” alert coupled with the next day’s train crash led to inevitable conspiracy theories, the phenomenon was not localized. YouTube users from a number of states shared regional versions of the broadcast, many of which were the first time viewers saw an emergency alert mention the entire United States:
+ 
+We contacted WKTV’s newsroom to determine whether in addition to an erroneous set of messages, the train rhyme was included. An employee confirmed that the alert aired at approximately 6:18 PM local time on 28 September 2016, and contained the Seuss quote. Although the anomalous EAS broadcast alarmed viewers nationally, scheduled system tests for 28 September 2016 were announced in July 2016. On 4 October 2016, a FEMA representative explained in an e-mailed statement:
+The EAS device installed at the TV station was configured to poll a test and development message aggregator instead of or in addition to the production message aggregator. Wednesday evening a developer was testing his software and sent several messages into the test and development message aggregator populating the message field with some Dr. Seuss lines. The developer never intended for the public to see his test message and the TV station was unaware that its EAS device was monitoring a test environment. The EAS device was re-configured and the unsuspecting developer briefly lost his access to the test environment while FEMA confirmed that there was no ill intent by any party.
+
+While WKTV’s unusual message coincided with a train-related tragedy the following day, viewers in areas across the United States received similar warnings during the planned broadcast event, none of whom experienced coincidental incidents or accidents the following day.  It remains unclear how the Dr. Seuss rhyme made it into the broadcast.
+Got a tip or a rumor? Contact us here.
+Filed Under:
+emergency alert system
+false flag
+fcc
++3 more
+FEMA
+hoboken train crash
+viral videos
+
+
+Fact Checker:
+Kim LaCapria
+
+Published:3 October 2016
+Updated:7 October 2016
+Eggerton, John.   “Emergency Alert System Test Set For Sept. 28.”
+    B&C.   27 September 2016.
+Federal Communications Commission.   “Public Safety And Homeland Security Bureau Announces Nationwide Test Of The Emergency Alert System On September 28, 2016.”
+    18 July 2016.
+WKTV-NY.   “WKTV Scrolling Message Alert.”
+    28 September 2016.
+
+6 February 2018
+								Facebook hasn't limited your feed to only a certain number of people, and sharing a post saying otherwise won't make any difference.			
+
+29 November 2017
+								Users of the iPhones running iOS 11 can make use of the feature but should take some precautions.			
+
+8 February 2018
+								Much ado was made on social media about the President's hair after a video aired of his boarding Air Force One on a windy day.			
+
+Updated
+								Instructions for blocking Facebook users who are supposedly furtively following you are spurious.			
+
+24 May 2016
+								Inaccurate warnings about an imminent ban on smoking in vehicles when minors are present have been circulating online since 2016.			
+
+6 February 2018
+								Facebook hasn't limited your feed to only a certain number of people, and sharing a post saying otherwise won't make any difference.			
+
+20 January 2018
+								The unprecedented finger-pointing took place amid a government shutdown and looming government worker furloughs.			
+
+Updated
+								Rumors that service station customers are getting stuck by HIV-loaded syringes affixed to gas pump handles are a hoax.			
+
+23 January 2018
+								Charles and Elizabeth Koch gave nearly half a million dollars to the House Speaker's fundraising committee after passage of the Republican tax bill.			
+
+5 November 2017
+								Reports that the perpetrator carried an Antifa flag and told churchgoers “this is a communist revolution” are fake news.			
+
+We are experiencing some issues with our feedback form. To reach us in the interim, please email contact@teamsnopes.com.
+
+
+We are experiencing some issues with our forms. Our development team is working on a solution.
+
