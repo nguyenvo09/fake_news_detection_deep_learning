@@ -1,0 +1,79 @@
+Sign up for the Snopes.com newsletter and get daily updates on all the best rumors, news and legends delivered straight to your inbox.
+Know of a rumor you want investigated? Press related inquiry? Lonely and just want to chat?
+
+Select from one of these options to get in touch with us:
+
+			A Carbon Monoxide spike on the west coast indicates that a massive earthquake will soon hit.							See Example( s )
+
+In late February 2016, several conspiracy theory-type web sites reported that carbon monoxide levels had spiked on the West Coast, and that these “unprecedented” levels signaled the arrival of a massive earthquake:
+“Unprecedented” and “dangerous” levels of Carbon Monoxide are being released into the atmosphere from seismic faults.  The levels are so bad, they’re dangerous!
+People on the West coast may find they are having trouble breathing and feel strangely tired.  Some folks may notice the surface of their skin taking on a bright red appearance; the signs of Carbon Monoxide poisoning.
+[…]
+Earth emits a burst of carbon monoxide (CO) a few days before an earthquake, according to geophysicist Ramesh Singh, pictured left. He and co-workers from France and the United States report that this gas could be used as one of the precursor signals for an earthquake early warning system.
+The above-quoted article was primarily based on data from earth.nullschool.net, a site that gleans and compiles data from various sites to make a visual map of global weather. While it did show an unusual amount of carbon monoxide along the West Coast in February 2016, the site warned that its data is not always correct:
+Please note that these predictions are experimental and are produced for research purposes only. Use of these forecasts for purposes other than research is not recommended.
+Articles claiming that there was a major spike in carbon monoxide levels on the West Coast are all based on the same set of data from NASA’s GEOS-5 software. On 1 March 2016, NASA’s Global Modeling and Assimilation Office released a statement explaining the unusual uptick in carbon monoxide levels:
+IMPORTANT NOTICE: Elevated carbon monoxide (CO) concentrations over California in the GEOS-5 products since February 25, 2016, are incorrect. They are a consequence of unrealistic emissions derived from satellite observations of fires, which led to elevated concentrations of atmospheric CO (as well as other species).
+NASA’s EOS-Terra spacecraft entered safe mode on February 18, 2016, during an inclination adjustment maneuver. This caused the MODIS instrument to enter safe mode, with the nadir and space-view doors closed. When the Terra MODIS transitioned back to science mode on February 24, 2016, the operating temperatures for the SWIR and LWIR (Short-wave Infrared and Longwave infrared) focal planes have not yet stabilized. As a consequence, some data products have been severely degraded. This includes the “Fire Radiative Power” fields that are used by GEOS-5 to compute emissions of CO, CO2, and carbonaceous aerosols by biomass burning.
+GMAO is working to correct this problem. The GEOS-5 analyses will be re-run from February 24, 2016, using only the EOS-Aqua MODIS data, in order to exclude the unrealistic CO emissions. EOS-Terra observations will be re-introduced once the instrument has stabilized.
+The perception of higher carbon monoxide levels was, then, caused by faulty equipment. But even if the spike had been real, a rise in carbon monoxide levels is not a clear indication of a future earthquake:
+The chance of a major earthquake striking the west coast has not changed in the past week. There are no scientific models that can reliably predict earthquakes, especially based on carbon monoxide emissions. More importantly, there was no sudden spike in carbon monoxide emissions, natural or otherwise.
+Many of the web sites claiming that an earthquake was imminent pointed to a February 2010 article in Nature Asia, which paraphrased an academic paper published by geophysicist Dr. Ramesh Singh (et al) to explain how carbon monoxide levels rose just before a 7.6 magnitude earthquake in western India in 2001:
+He and co-workers from France and the United States report that this gas could be used as one of the precursor signals for an earthquake early warning system.
+The scientists used data from an American satellite and analysed changes in carbon monoxide at different altitudes. “The carbon monoxide shows enhancement in concentration a few days prior to the earthquake,” Singh said.
+“GEOS-5 is a NASA chem model, showing a high concentration of carbon monoxide (CO) along the west coast of California since Feb. 26,” Singh told us in an e-mailed statement:
+These websites have included my research paper on their own volition — unrelated to the CO readings — and as such, have created misleading stories causing anxiety in some readers.
+The facts are that the CO image showing high concentrations is associated with the Aliso Canyon ground storage emissions of methane gas. Depending upon the wind, the CO is getting dispersed in all directions. Due to south-west wind, the CO plume is moving over the ocean.
+You might be aware that no one can predict an earthquake and we do not have an indicator on the basis scientists can say that earthquakes may occur.
+While atmospheric fluctuations and perturbations have indeed been recorded before major earthquakes, this is still very much research in progress. In fact, seismologist John Vidale (director of the University of Washington’s Pacific Northwest Seismic Network) took issue with these web sites connecting Singh’s data with the alleged carbon monoxide rise, calling it “alarmist nonsense”:
+“Back in the 1970s, when we were looking all possible ways to predict earthquakes, there was an idea that the Earth cracks up in the area about to have an earthquake. And when that cracks, fluid and gases might come out of the ground,” he said, noting that back then a theory emerged that watching for those gases could indicate where an earthquake was about to hit.
+“But that was back in the ’70s. Now we know the ground doesn’t crack across the entire area and that idea just doesn’t work,” he said. “In the 40 years just then we’ve been watching faults we have tremendously improved measurements and that kind of signaling just doesn’t come before big earthquakes.”
+[…]
+“We can’t predict earthquakes,” Vidale said. “We are not saying we can predict better than these ways that don’t work, we’re saying that there is no way that works well to predict earthquakes.”
+“A lot of websites have stories that aren’t true and some websites just put up unlikely stories in the hopes that the public looks at them,” he said
+Vidale also said that the data from NASA’s GEOS-5 modeling software could be explained by slow-moving air and smoke pollution from forest fires:
+This diary should be deleted. It is alarmist nonsense. There is a large surface high pressure located over the west coast. The air is almost stagnant. Smog, which is rich in CO and pollution from fires, which is rich in CO, have built up over the west coast and western Canada … There is no connection of the general pollution pattern today to the San Andreas fault. The patch of high CO over western Canadian fires is a clue.
+Superstation 95, the web site that first propagated and promulgated this rumor, has a habit of creating dire-sounding stories out of half-truths and misinformation, such as a claim that cargo ships had ceased travel (in “a horrific economic sign”), an article which heavily exaggerated the effects the Fukushima nuclear disaster had on marine life (using photos stolen from other, unrelated sites), and a prediction that World War III would break out by 28 February 2016 (it didn’t).
+Got a tip or a rumor? Contact us here.
+
+Fact Checker:
+Dan Evon
+
+Published:1 March 2016
+Updated:1 March 2016
+
+6 February 2018
+								Facebook hasn't limited your feed to only a certain number of people, and sharing a post saying otherwise won't make any difference.			
+
+29 November 2017
+								Users of the iPhones running iOS 11 can make use of the feature but should take some precautions.			
+
+8 February 2018
+								Much ado was made on social media about the President's hair after a video aired of his boarding Air Force One on a windy day.			
+
+Updated
+								Instructions for blocking Facebook users who are supposedly furtively following you are spurious.			
+
+24 May 2016
+								Inaccurate warnings about an imminent ban on smoking in vehicles when minors are present have been circulating online since 2016.			
+
+6 February 2018
+								Facebook hasn't limited your feed to only a certain number of people, and sharing a post saying otherwise won't make any difference.			
+
+20 January 2018
+								The unprecedented finger-pointing took place amid a government shutdown and looming government worker furloughs.			
+
+Updated
+								Rumors that service station customers are getting stuck by HIV-loaded syringes affixed to gas pump handles are a hoax.			
+
+23 January 2018
+								Charles and Elizabeth Koch gave nearly half a million dollars to the House Speaker's fundraising committee after passage of the Republican tax bill.			
+
+5 November 2017
+								Reports that the perpetrator carried an Antifa flag and told churchgoers “this is a communist revolution” are fake news.			
+
+We are experiencing some issues with our feedback form. To reach us in the interim, please email contact@teamsnopes.com.
+
+
+We are experiencing some issues with our forms. Our development team is working on a solution.
+

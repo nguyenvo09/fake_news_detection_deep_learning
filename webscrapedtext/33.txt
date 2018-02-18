@@ -1,0 +1,82 @@
+Sign up for the Snopes.com newsletter and get daily updates on all the best rumors, news and legends delivered straight to your inbox.
+Know of a rumor you want investigated? Press related inquiry? Lonely and just want to chat?
+
+Select from one of these options to get in touch with us:
+
+			SpaceX will be transporting a potentially deadly pathogen to the International Space Station as part of their next launch.					
+On 18 February 2017, the SpaceX space transport service will launch a capsule to the International Space Station for a resupply mission (CRS-10) aboard a Falcon 9 rocket. 
+Among the items contained within the capsule will be a sample of the highly infectious Methicillin-resistant Staphylococcus aureus (MRSA) bacterium, along with a device able to monitor that sample at the genomic level.
+This experiment is the result of the first “Galactic Grant Competition,” a Center for the Advancement of Science in Space (CASIS) initiative aimed at providing Massachusetts-based biotech companies access to the International Space Station. Among the grant recipients was Harvard physicist Anita Goel’s private research company Nanobiosym, which has developed a mobile pathogen-detection tool that has the potential to detect genetic mutations to bacterial infections in real time.
+This “tricorder”-style device, dubbed Gene-RADAR by Nanobiosym, is described as follows in a patent filing:
+
+A portable system for extracting, optionally amplifying, and detecting nucleic acids or proteins using a compact integrated chip in combination with a mobile device system for analyzing detected signals.
+
+With the receipt of the CASIS grant, Nanobiosym was given the opportunity to refine the technology in space. Not only will this help with the development that technology, but it may also allow scientists to view genetic mutations to bacterial in “fast-forward”, helping scientists predict the ways in which bacterial infections develop antibiotic resistance, as described in the NASA mission summary:
+
+Microgravity may accelerate the rate of bacterial mutations and this pilot investigation analyzes this process in two strains aboard the International Space Station, which may provide insight into how deadly bacteria become drug-resistant. The data can help refine models of drug resistance and support development of better medicines to counter it.
+
+This conclusion is far from settled science, as described in a 2015 review paper, but both space-based and low-gravity simulation experiments have demonstrated that it is at least plausible that low gravity affects the mutation rate of some bacterial species:
+
+There is general agreement that microgravity represents the major influence on bacterial growth kinetics and bacterial cell behavior during short orbital flights, although radiation may increase microbial mutation rates during flight [as well].
+
+If, as Goel hypothesizes, mutations rates speed up in space, Scientists may be able to use this information to develop drugs that anticipate potential mechanisms of antibiotic resistance before they occur, as described in a CASIS press release:
+
+The project will attempt to computationally predict bacterial mutations, to evaluate model organisms in space, and to use the empirical results to validate and refine the company’s predictive algorithms. This proof-of-concept experiment will provide data that can be applied to future predictive models for antibiotic resistant pathogen mutations, which will be of significant value to antibiotic drug development.
+
+Antibiotic resistance is a growing problem that gained increased media attention with the death of a patient from a bacterial infection resistant to 26 different
+Got a tip or a rumor? Contact us here.
+
+Fact Checker:
+Alex Kasprak
+
+Featured Image:Shutterstock
+Published:13 February 2017
+KennedySpaceCenter.com.   “Rocket Launch: SpaceX CRS-10.”
+Center for the Advancement of Science in Space.   “Governor Baker, Massachusetts Life Sciences Center and CASIS Announce Winners of Galactic Grant Competition.”
+    7 July 2015.
+Qualcomm Tricorder X Prize.   “Overview.”
+U.S Patent Application 20140335527 A1.   “Systems and Methods for Mobile Device Analysis of Nucleic Acids and Proteins.”
+    13 November 2014.
+Nosta, John.   “Elon Musk Is About to Launch a Lethal Pathogen Into Space — It Might Just Save Your Life.”
+    Forbes.   8 February 2017.
+NASA.gov.   “Proof-of-Concept for Gene-RADAR® Predictive Pathogen Mutation Study (Nanobiosym Genes)”
+    22 November 2016.
+Taylor, Peter William.   “Impact of Space Flight on Bacterial Virulence and Antibiotic Susceptibility.”
+    Infection and Drug Resistance.   30 July 2015.
+Ask. Chat. Poke.
+
+6 February 2018
+								Facebook hasn't limited your feed to only a certain number of people, and sharing a post saying otherwise won't make any difference.			
+
+29 November 2017
+								Users of the iPhones running iOS 11 can make use of the feature but should take some precautions.			
+
+8 February 2018
+								Much ado was made on social media about the President's hair after a video aired of his boarding Air Force One on a windy day.			
+
+Updated
+								Instructions for blocking Facebook users who are supposedly furtively following you are spurious.			
+
+24 May 2016
+								Inaccurate warnings about an imminent ban on smoking in vehicles when minors are present have been circulating online since 2016.			
+
+6 February 2018
+								Facebook hasn't limited your feed to only a certain number of people, and sharing a post saying otherwise won't make any difference.			
+
+20 January 2018
+								The unprecedented finger-pointing took place amid a government shutdown and looming government worker furloughs.			
+
+Updated
+								Rumors that service station customers are getting stuck by HIV-loaded syringes affixed to gas pump handles are a hoax.			
+
+23 January 2018
+								Charles and Elizabeth Koch gave nearly half a million dollars to the House Speaker's fundraising committee after passage of the Republican tax bill.			
+
+5 November 2017
+								Reports that the perpetrator carried an Antifa flag and told churchgoers “this is a communist revolution” are fake news.			
+
+We are experiencing some issues with our feedback form. To reach us in the interim, please email contact@teamsnopes.com.
+
+
+We are experiencing some issues with our forms. Our development team is working on a solution.
+

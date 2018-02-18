@@ -1,0 +1,63 @@
+Sign up for the Snopes.com newsletter and get daily updates on all the best rumors, news and legends delivered straight to your inbox.
+Know of a rumor you want investigated? Press related inquiry? Lonely and just want to chat?
+
+Select from one of these options to get in touch with us:
+
+			Setting your Apple device's date to 1 January 1970 will reveal a retro-themed Easter egg.							See Example( s )
+
+Do not set the date on your iPhone to Jan. 1, 1970, unless you want a phone you can't use anymore. https://t.co/YQN8LtgyFv
+In February 2016, a rumor began to spread that iPhones and iPads contain a nifty Easter egg: If you set the date of your Apple product to 1 January 1970 then reboot, it will bring up a retro-themed menu based on the old Apple computer operating systems.
+
+Text on the image read:
+Blast from the past
+The original Macintosh introduced the world to computers, forever changing the way people experience technology, and allowing people to do things that were never possible before. With this easter egg, warp back in time with a class Macintosh theme to relive the magic on your iPhone. Change the date on your iPhone to January 1, 1970, press and hold the power button to reboot your device, and prepare for a wild ride!
+As cool as this might look, it’s a hoax, and a particularly nasty one at that. Resetting your phone’s date that far back will so thoroughly confuse your phone or tablet’s operating system that you’ll either need to take it to the Apple store for a replacement, or just buy a whole new phone or tablet:
+
+If you’re worried about doing this by accident, don’t. Setting the date on your phone is an onerous and time-consuming process, so there’s not much of a chance that you could accidentally brick your phone. However, it’s possible — at least in theory — that someone with time and malicious intent could trick a phone connected to a network into resetting its date by pretending to be a time server.
+The date bug affects iPhones, iPads and iPod touches with 64-bit processors running iOS 8 or iOS 9. Apple says it’s looking into the bug. According to the Guardian, users can protect themselves with a series of tweaks, such as manually setting their time and date, not enabling automatic time changes, and not turning off their iPhone or iPads.
+If you must have an old-school theme for your tablet or phone, fear not: they do exist! (Of course, all caveats about downloading third-party apps and jailbreaking your device do apply.) It’s worth noting, by the way, that the very first Apple computer, the Apple I, came out not in 1970, but in 1976.
+On 15 February 2016, Apple confirmed that the bug exists, and said that an upcoming software update will address the issue.
+Got a tip or a rumor? Contact us here.
+
+Fact Checker:
+Brooke Binkowski
+
+Published:12 February 2016
+Updated:16 February 2016
+Ask. Chat. Poke.
+
+6 February 2018
+								Facebook hasn't limited your feed to only a certain number of people, and sharing a post saying otherwise won't make any difference.			
+
+29 November 2017
+								Users of the iPhones running iOS 11 can make use of the feature but should take some precautions.			
+
+8 February 2018
+								Much ado was made on social media about the President's hair after a video aired of his boarding Air Force One on a windy day.			
+
+Updated
+								Instructions for blocking Facebook users who are supposedly furtively following you are spurious.			
+
+24 May 2016
+								Inaccurate warnings about an imminent ban on smoking in vehicles when minors are present have been circulating online since 2016.			
+
+6 February 2018
+								Facebook hasn't limited your feed to only a certain number of people, and sharing a post saying otherwise won't make any difference.			
+
+20 January 2018
+								The unprecedented finger-pointing took place amid a government shutdown and looming government worker furloughs.			
+
+Updated
+								Rumors that service station customers are getting stuck by HIV-loaded syringes affixed to gas pump handles are a hoax.			
+
+23 January 2018
+								Charles and Elizabeth Koch gave nearly half a million dollars to the House Speaker's fundraising committee after passage of the Republican tax bill.			
+
+5 November 2017
+								Reports that the perpetrator carried an Antifa flag and told churchgoers “this is a communist revolution” are fake news.			
+
+We are experiencing some issues with our feedback form. To reach us in the interim, please email contact@teamsnopes.com.
+
+
+We are experiencing some issues with our forms. Our development team is working on a solution.
+

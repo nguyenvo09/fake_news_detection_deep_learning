@@ -1,0 +1,76 @@
+Sign up for the Snopes.com newsletter and get daily updates on all the best rumors, news and legends delivered straight to your inbox.
+Know of a rumor you want investigated? Press related inquiry? Lonely and just want to chat?
+
+Select from one of these options to get in touch with us:
+
+			Google News carried an Atlanta Sun Times article about the Orlando shooting several hours prior to the incident.							See Example( s )
+
+https://t.co/3dem9WQi74
+In the chaotic aftermath of the 12 June 2016 Orlando Pulse nightclub shooting, a number of rumors and inaccuracies swept across social media. Among them was the claim that a  new syndicate including the Atlanta Sun Times (not the Chicago Sun-Times) had reported news of the massacre several hours “too early”:
+Google Search Engine Picked-Up ORLANDO ATTACK NEWS STORY 6 Hours BEFORE attack took place!
+The Google news search engine picked-up an Sun Times Network article about the attack at an Orlando nightclub 6 hours BEFORE the attack took place! The attack occurred around 2:00 AM eastern US time on Sunday, June 12.
+But the Atlanta Sun-Times Network has the following story about the attack, dated 06/11/2016, 08:00PM (Double Click Image to enlarge):
+
+The item went on to claim that Google had also displayed the timestamp:
+Google’s news system is totally automated. It checks thousands of news sites dozens of times a day automatically, and creates a link within Google to news articles, then applies a Google time stamp when the story is acquired by Google (not when the story shows it was published). Google’s news system shows that Google picked-up that story BEFORE the attack took place!
+As the post indicated, Google automatically populates information from web sites, so it holds that if Atlanta Sun Times incorrectly dated the page, Google would also display that incorrect information. We checked the source code of the page and indeed, the item was listed as published several hours prior to the attack — in one portion of the code:
+
+However, that wasn’t universally true. While the aggregation of the Atlanta Sun Times‘ report  was incorrectly timestamped, the original content was clearly not:
+
+The mismatch in timestamps suggested a technical error of some sort, so we contacted the Atlanta Sun Times to ask whether the variation was a glitch or something else. An employee explained to us how the aggregated article (since corrected) ended up misdated:
+My apologies for the delay in getting back to you. I wanted to dig into this and get you an accurate answer on the timestamp error. Here’s what I discovered:
+As you pointed out, the story in question is an aggregation from the Atlanta Journal Constitution. We aggregate content from RSS feeds and through a method called scraping. When we do scrape, we rely on the timestamp of the source article. Sometimes the source article does not include a timezone and by default, our systems assumes and applies a GMT timezone; In this case it resulted in timestamping the aggregated post on our site to the day before the tragedy even took place.
+It’s a flaw in the system that we are working to correct.
+The Orlando shooting was not the first time Superstation95 used a major tragedy to sow additional fear and confusion (which then turn into lucrative pageviews for the site’s owner). Superstation95 is a web site that is neither a “superstation” nor a legitimate news source, but rather a dumping grounds of misinformation from Hal Turner, a white supremacist who spent 33 months in prison for making death threats against three federal judges in 2009. (The name listed on the site’s “Contact” page is Turner’s lawyer.)
+Beginning in late 2015, Superstation95 began spreading alarmist hoaxes and conspiracy theories on social media, often building upon legitimate tragic or frightening events with embellished (and frightening) details. Among the most widely spread were claims that a large group of Muslim men fired upon campers and hikers in California, Fukushima radiation caused severe mutations in marine life, cargo ships mysteriously ground to a halt signaling imminent economic catastrophe, a deadly Las Vegas strip car crash involved a driver shouting “Allahu Akbar,” the San Bernardino shooting occurred because the shooter was offended by pork served at a holiday party shortly before the massacre, the Earth’s “magnetosphere” collapsed for two hours, and a (nonexistent) suicide note left by a genuinely deceased ICE agent warned of impending FEMA camps and mass enslavement. None of Superstation95‘s tragedy-milking predictions have ever come to fruition. 
+Got a tip or a rumor? Contact us here.
+Filed Under:
+false flag
+hal turner
+hoaxes
++2 more
+orlando shooting
+superstation95
+
+
+Fact Checker:
+Kim LaCapria
+
+Published:17 June 2016
+Updated:17 June 2016
+
+6 February 2018
+								Facebook hasn't limited your feed to only a certain number of people, and sharing a post saying otherwise won't make any difference.			
+
+29 November 2017
+								Users of the iPhones running iOS 11 can make use of the feature but should take some precautions.			
+
+8 February 2018
+								Much ado was made on social media about the President's hair after a video aired of his boarding Air Force One on a windy day.			
+
+Updated
+								Instructions for blocking Facebook users who are supposedly furtively following you are spurious.			
+
+24 May 2016
+								Inaccurate warnings about an imminent ban on smoking in vehicles when minors are present have been circulating online since 2016.			
+
+6 February 2018
+								Facebook hasn't limited your feed to only a certain number of people, and sharing a post saying otherwise won't make any difference.			
+
+20 January 2018
+								The unprecedented finger-pointing took place amid a government shutdown and looming government worker furloughs.			
+
+Updated
+								Rumors that service station customers are getting stuck by HIV-loaded syringes affixed to gas pump handles are a hoax.			
+
+23 January 2018
+								Charles and Elizabeth Koch gave nearly half a million dollars to the House Speaker's fundraising committee after passage of the Republican tax bill.			
+
+5 November 2017
+								Reports that the perpetrator carried an Antifa flag and told churchgoers “this is a communist revolution” are fake news.			
+
+We are experiencing some issues with our feedback form. To reach us in the interim, please email contact@teamsnopes.com.
+
+
+We are experiencing some issues with our forms. Our development team is working on a solution.
+

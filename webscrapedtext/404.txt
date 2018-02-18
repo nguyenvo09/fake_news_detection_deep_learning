@@ -1,0 +1,91 @@
+Sign up for the Snopes.com newsletter and get daily updates on all the best rumors, news and legends delivered straight to your inbox.
+Know of a rumor you want investigated? Press related inquiry? Lonely and just want to chat?
+
+Select from one of these options to get in touch with us:
+
+			Bernie Sanders was omitted from the Chicago primary ballot.							See Example( s )
+
+Bernie Sanders OMITTED From Chicago Democratic Sample Ballot... More Shenanigans... - Democratic Underground https://t.co/itX76puhIW
+On or around 5 March 2016, a social media rumor began to circulate that Bernie Sanders was not on the “Chicago sample primary ballot”:
+Bernie Sanders omitted in Democratic sample ballot of Chicago. (via NotACanadian) via /r/S… https://t.co/lLbwiLOq5U pic.twitter.com/99I8gPGOUq
+— Sanders Will Win (@sanderswillwin) March 6, 2016
+On 7 March 2016, a Daily Kos diarist published an entry (“Bernie Sanders OMITTED From Chicago Democratic Sample Ballot”) advancing the rumor that Sanders was omitted from primary ballots in Chicago. On 8 March 2016, the Facebook page “The People for Bernie Sanders 2016” published a photo of a “sample ballot”:// <![CDATA[
+(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&#038;version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));
+// ]]&gt;
+This is a sample ballot sent out in Chicago. It doesn’t list Bernie Sanders as a candidate for president. Misinformation is voter suppression.
+Posted by The People For Bernie Sanders 2016 on Tuesday, March 8, 2016
+Commenters on that post were quick to point out that votes for Sanders could and had been cast in that primary, calling the claim into question:
+Here in Chicago My grandmother voted early and she voted for Bernie so idk what this is.
+From that point, many other social media users inferred that the only way to cast a vote for Sanders was through a write-in vote, assuming he was not listed on ballots. The claim reached a much larger audience when actor and comedian Sarah Silverman sent the following tweet on 10 March 2016:
+#BernieSanders not on Chicago sample ballot.
+WOW. Can someone explain this? pic.twitter.com/s9ZXcrGLYb
+— Sarah Silverman (@SarahKSilverman) March 10, 2016
+At that point, the claim was also receiving additional visibility on Facebook:// <![CDATA[
+(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&#038;version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));
+// ]]&gt;
+Was the DNC presuming Bernie would be gone by then? Honest mistake? This is not the first pic of these “sample” “democratic” ballots from Chicago…
+Posted by Marie Myung-Ok Lee on Thursday, March 10, 2016
+Many were confused by the use of the term “sample ballot,” believing that they were literal samples of the actual documents. Further complicating matters was the fact that the Chicago Board of Elections did make available sample ballots viewable by voters ahead of primary elections; some people seemed to be confusing actual sample ballots with party-issued endorsements.
+We spoke to an individual at Chicago’s Board of Elections, who told he he was aware of the claims and explained that social media users were confusing campaign literature with actual state ballots. He confirmed that Sanders was indeed a candidate for whom registered voters in Chicago and the state of Illinois could vote if they wished, and that “sample ballots” were not in any way to be considered legitimate examples of actual primary election ballots.
+The Chicago Board of Elections has an official web site where anyone can view an official sample ballot (a valid address was a pre-requisite to view the ballot, and we used the Cook County Democrats N. LaSalle Street location). Sanders was indeed listed on that ballot:
+ 
+The controversial campaign literature was also available on the Cook County Democratic Party’s web site, both as a page and a downloadable PDF. Both versions were labeled as indicative of the party’s endorsement of Clinton, not Sanders:
+ 
+While it was true that the “sample ballot” existed, it announced 2016 endorsements made by Cook County Democrats and wasn’t a Board of Elections sample ballot. An 8 March 2016 tweet featured a screencap in which the former organization attempted to explain their endorsement:
+@people4bernie response from the Cook County Democratic Party (@Cookcodems). (excuse the language, made me mad) pic.twitter.com/PFUdTEIqpu
+— Joshua Clinton (@joshuaclintonn) March 8, 2016
+
+Since Cook County Democrats endorsed Hillary Clinton, their “sample ballot” simply advised voters of the group’s preferred voting slate. However, Sanders was not omitted from any official ballots, nor did supporters in Cook County need to write-in a primary ballot vote for Sanders. Whether or not voters in Chicago and elsewhere approved of Cook County Democrats’ endorsements, the sample ballot had no bearing on actual official ballots where Sanders appeared alongside Clinton as a candidate. Localized political parties regularly can and do endorse their own preferred candidates, an activity that is both common and accepted in the course of elections.
+Got a tip or a rumor? Contact us here.
+Filed Under:
+bernie sanders
+chicago
+illinois primary
++3 more
+nontroversies
+sample ballot
+sanders omitted
+
+
+Fact Checker:
+Kim LaCapria
+
+Published:10 March 2016
+Updated:10 March 2016
+Ask. Chat. Poke.
+
+6 February 2018
+								Facebook hasn't limited your feed to only a certain number of people, and sharing a post saying otherwise won't make any difference.			
+
+29 November 2017
+								Users of the iPhones running iOS 11 can make use of the feature but should take some precautions.			
+
+8 February 2018
+								Much ado was made on social media about the President's hair after a video aired of his boarding Air Force One on a windy day.			
+
+Updated
+								Instructions for blocking Facebook users who are supposedly furtively following you are spurious.			
+
+24 May 2016
+								Inaccurate warnings about an imminent ban on smoking in vehicles when minors are present have been circulating online since 2016.			
+
+6 February 2018
+								Facebook hasn't limited your feed to only a certain number of people, and sharing a post saying otherwise won't make any difference.			
+
+20 January 2018
+								The unprecedented finger-pointing took place amid a government shutdown and looming government worker furloughs.			
+
+Updated
+								Rumors that service station customers are getting stuck by HIV-loaded syringes affixed to gas pump handles are a hoax.			
+
+23 January 2018
+								Charles and Elizabeth Koch gave nearly half a million dollars to the House Speaker's fundraising committee after passage of the Republican tax bill.			
+
+5 November 2017
+								Reports that the perpetrator carried an Antifa flag and told churchgoers “this is a communist revolution” are fake news.			
+
+We are experiencing some issues with our feedback form. To reach us in the interim, please email contact@teamsnopes.com.
+
+
+We are experiencing some issues with our forms. Our development team is working on a solution.
+

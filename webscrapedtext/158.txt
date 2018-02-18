@@ -1,0 +1,84 @@
+Sign up for the Snopes.com newsletter and get daily updates on all the best rumors, news and legends delivered straight to your inbox.
+Know of a rumor you want investigated? Press related inquiry? Lonely and just want to chat?
+
+Select from one of these options to get in touch with us:
+In recent years, some national restaurant chains have begun the practice of demonstrating appreciation for U.S. military personnel (both veterans and active duty) by offering them discounted or free meals in observance of Veterans Day. 
+Thus year Veterans Day falls on Saturday, November 11th, with the designated federal holiday being observed on Friday, November 10th.  Here are some of the restaurant chains that have announced they will be providing Veterans Day offerings in 2017:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+		var mainEl = document.getElementsByTagName('main')[0];
+		if (cookies.read('nav-collapsed') !== '' && mainEl.classList.contains('main')) {
+			mainEl.classList.add(cookies.read('nav-collapsed'));
+		}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What’s New
+About Us
+Hot 50
+Fact Check
+Staff
+Random
+News
+Video
+Message Board
+
+
+				Urban Legends Reference Pages© 1995- by Snopes.com | This material may not be reproduced without permission | Snopes and the Snopes.com logo are registered service marks of Snopes.com | Privacy Policy | Terms of Use |			
+
+
+
+
+
+We are experiencing some issues with our feedback form. To reach us in the interim, please email contact@teamsnopes.com.
+
+
+We are experiencing some issues with our forms. Our development team is working on a solution.
+

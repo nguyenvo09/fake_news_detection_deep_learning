@@ -1,0 +1,71 @@
+Sign up for the Snopes.com newsletter and get daily updates on all the best rumors, news and legends delivered straight to your inbox.
+Know of a rumor you want investigated? Press related inquiry? Lonely and just want to chat?
+
+Select from one of these options to get in touch with us:
+
+			WhatsApp will share personal user information with Facebook, who will make it  publicly available.							See Example( s )
+
+Social media giant Facebook purchased the popular texting app WhatsApp in 2014,  and in 2016 WhatsApp announced they would be sharing user information with Facebook — leading some users to worry that personal information contained with WhatsApp would be spilled to the social media-using public. But while the app will share some user data with Facebook to improve targeted advertising and other business interfaces, WhatsApp says information such as messages, pictures and other personal data will not be shared onto other platforms. Furthermore, users can theoretically opt out of sharing non-personal data with Facebook.
+The WhatsApp web site rather passive-aggressively instructs users how to opt out:
+If you are an existing user, you can choose not to share your account information with Facebook to improve your Facebook ads and products experiences.
+The site offers instructions on two methods for opting out of data sharing. One way to prevent WhatsApp from sharing customer information with Facebook is to tap the word “Read” when the update is offered, then uncheck the following box:
+If you have agreed to the update, you have another 30 days to change your account settings so that your information is not shared by again unchecking the box:
+WhatsApp promises that none of their users’ “messages, photos, and account information” will be shared on Facebook “or any of our other family of apps for others to see,” nor will anything posted on Facebook be shared on WhatsApp:
+The Facebook family of companies will still receive and use this information for other purposes such as improving infrastructure and delivery systems, understanding how our services or theirs are used, securing systems, and fighting spam, abuse, or infringement activities.
+The ten Facebook-owned companies that will share the information include Facebook Payments; Atlas; Instagram; Occulus; Onavo; Parse; Moves; LiveRail; Masquerade; and now, of course, WhatsApp. According to a WhatsApp blog post dated 25 August 2016:
+We’re also updating these documents to make clear that we’ve rolled out end-to-end encryption. When you and the people you message are using the latest version of WhatsApp, your messages are encrypted by default, which means you’re the only people who can read them. Even as we coordinate more with Facebook in the months ahead, your encrypted messages stay private and no one else can read them. Not WhatsApp, not Facebook, nor anyone else. We won’t post or share your WhatsApp number with others, including on Facebook, and we still won’t sell, share, or give your phone number to advertisers.
+But by coordinating more with Facebook, we’ll be able to do things like track basic metrics about how often people use our services and better fight spam on WhatsApp. And by connecting your phone number with Facebook’s systems, Facebook can offer better friend suggestions and show you more relevant ads if you have an account with them. For example, you might see an ad from a company you already work with, rather than one from someone you’ve never heard of. You can learn more, including how to control the use of your data, here.
+If WhatsApp’s promises that your personal information will not be shared on Facebook aren’t enough, Forbeslists the messaging app Signal to be a favorite alternative choice. Its developer, Open Whisper Systems, boasts an endorsement by none other than NSA document leaker Edward Snowden:
+Google just started using the Signal protocols for its Allo chat app too, indicating Signal is now the crypto du jour amongst major tech companies. And, as it’s not beholden to any private company or public body, Signal won’t be sharing your metadata with anyone.
+Got a tip or a rumor? Contact us here.
+Filed Under:
+facebook
+privacy
+technology
++1 more
+whatsapp
+
+
+Fact Checker:
+Bethania Palma
+
+Published:15 September 2016
+Fox-Brewster, Thomas. “You Have 30 Days ro Stop WhatsApp Sharing Your Data with Facebook.”
+  Forbes. 25 August 2016.
+Ask. Chat. Poke.
+
+6 February 2018
+								Facebook hasn't limited your feed to only a certain number of people, and sharing a post saying otherwise won't make any difference.			
+
+29 November 2017
+								Users of the iPhones running iOS 11 can make use of the feature but should take some precautions.			
+
+8 February 2018
+								Much ado was made on social media about the President's hair after a video aired of his boarding Air Force One on a windy day.			
+
+Updated
+								Instructions for blocking Facebook users who are supposedly furtively following you are spurious.			
+
+24 May 2016
+								Inaccurate warnings about an imminent ban on smoking in vehicles when minors are present have been circulating online since 2016.			
+
+6 February 2018
+								Facebook hasn't limited your feed to only a certain number of people, and sharing a post saying otherwise won't make any difference.			
+
+20 January 2018
+								The unprecedented finger-pointing took place amid a government shutdown and looming government worker furloughs.			
+
+Updated
+								Rumors that service station customers are getting stuck by HIV-loaded syringes affixed to gas pump handles are a hoax.			
+
+23 January 2018
+								Charles and Elizabeth Koch gave nearly half a million dollars to the House Speaker's fundraising committee after passage of the Republican tax bill.			
+
+5 November 2017
+								Reports that the perpetrator carried an Antifa flag and told churchgoers “this is a communist revolution” are fake news.			
+
+We are experiencing some issues with our feedback form. To reach us in the interim, please email contact@teamsnopes.com.
+
+
+We are experiencing some issues with our forms. Our development team is working on a solution.
+

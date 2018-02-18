@@ -1,0 +1,92 @@
+Sign up for the Snopes.com newsletter and get daily updates on all the best rumors, news and legends delivered straight to your inbox.
+Know of a rumor you want investigated? Press related inquiry? Lonely and just want to chat?
+
+Select from one of these options to get in touch with us:
+
+			Photograph shows eleven original staff members of Microsoft in 1978.					
+One of the lessons of the personal computer revolution that began in the 1970s was that tremendous business success was no longer entirely the province of staid, conservatively-dressed, mature adult males with expensive business school educations.  As Microsoft, Apple Computer, and hundreds of other technology-driven companies demonstrated, plenty of young, sartorially-questionable, self-taught young people of both sexes could achieve business success on a par with some of the world’s oldest and biggest corporations.  
+A photograph of Microsoft staff members in 1978 has been circulated online for many years bearing titles such as “Would you have invested?”  It reflects the notion that, back in 1978, not many people might have predicted that a small group of casually-dressed, long-haired youngsters was creating a corporation that would, four decades later, reach an estimated market value of $330 billion, themselves  becoming millionaires (and a few even billionaires) in the process.
+In December 1978, Microsoft had just completed its first million-dollar sales year, and the decision was made to decamp from the company’s Albuquerque, New Mexico, headquarters and relocate to bigger and better digs in the Pacific Northwest state of Washington.  The formal studio photograph displayed above was taken on 7 December 1978, shortly before that move, and captured all but a couple of the current Microsoft staff:
+
+To suitably immortalize the Albuquerque years, Bob Greenberg cut a deal with a photo studio for a group portrait on December 7. Pearl Harbor Day in Albuquerque featured a snowstorm, but only Miriam Lubow, who was stranded at home with her kids, and Ric Weiland [Microsoft’s second employee], out of town on business, failed to make the sitting.  All eleven of the employees in the Albuquerque picture, along with Weiland, were about to make the trip to Seattle.  Only Miriam Lubow would stay behind — reluctantly.  Gates offered to pay for her and her family’s move to Seattle, but Miriam’s husband demurred: “He said, ‘Why are we going to follow this kid to Seattle? It always rains in Seattle.'” On a Concorde flight to Europe, Gates wrote her a thank-you note for her service to Microsoft. As it turned out, she was merely postponing the inevitable. Three years later Miriam would move to the Seattle area and work again for Microsoft, this time focusing more narrowly on a skill she had developed in Albuquerque: getting customers to pay up.
+
+(Technically, Microsoft wasn’t yet “Microsoft Corporation” at the time this photograph was taken — the company was founded as a partnership and officially became a  Washington State corporation on 1 July 1981.)
+As for the identities of the persons pictured, and their lives after Microsoft:
+
+ Bill Gates (front row, left):  William Gates III, the Harvard drop-out who at 18 co-founded (and later served as CEO and Chairman of the Board of) Microsoft, the world’s largest software company, hardly needs any introduction.   He is regularly ranked as the one of the richest individuals in the world (with an estimated net worth in 2015 of $78 billion); in 2008 he  withdrew from Microsoft’s day-to-day operations to focus his attention on the Bill & Melinda Gates Foundation, which combats diseases such as polio, malaria, and AIDS.
+ Andrea Lewis (front row, second from left):  Andrea Lewis was a former MITS technical writer and Computer Notes editor hired in 1978 to produce documentation for Microsoft products as the company’s first technical writer.  She left her day-to-day job at Microsoft in 1983, has since worked as a freelance journalist and fiction writer, and helped create the Richard Hugo House, a literary center in Seattle.  She now lives in Seattle with her husband and two children.
+ Marla Wood (front row, second from right):  Marla Wood (wife of Steve Wood, also pictured above) worked as a bookkeeper and administrative assistant at Microsoft until 1980, when she and her husband left the company (becoming the first of the eleven staff members in the photograph to depart Microsoft), in large part due to a dispute regarding payment of overtime wages:
+
+Bill’s letter confirming [a $50,000 offer to Steve Ballmer to become his assistant] became a personnel disaster when some disgruntled soul copied it and tacked it on the office bulletin board. Along with his salary, high for Microsoft, Ballmer was to get a 5 to 10 percent cut of the company based on a formula involving the year’s revenue growth.  It sorely rankled loyalists who had been slaving for the company since the Albuquerque days without so much as a profit-sharing plan to show for it.
+When it came to clerical help, Gates had been tightfisted beyond the bounds of the law. Overtime had always been paid on a straight-time basis, and though the rules affecting programmers might be debatable, the rules affecting clerical workers were not. Marla Wood and other office staffers had checked into the labor regulations and discovered that they deserved time and a half for overtime — currently and retroactively. When Steve Wood approached Gates about it, he agreed to start paying time and a half but insisted that back pay was out of the question. If the secretaries wanted to file a complaint, well, let ’em.
+They did. When the state notified Gates that the back pay was due, it wasn’t long before Marla Wood got the news:
+ Bill comes storming into my office saying he just had a phone call from these people, just livid. This was the one time I was really on the receiving end of one of his rages — I mean, just screaming about this and how it was going to ruin his reputation … This would be on his reports forever and ever …
+I was saved by an overseas phone call which he proceeded to take at my desk, whereupon I ran out, went down to Steve’s office and said, “I’m quitting. I can’t stand it here any more.” And he said, “That’s all right; I’m seeing a headhunter tomorrow anyway.”
+But before she and her husband departed Microsoft, Marla saw to it that the issue was settled. Although it amounted to only $100 or so for her and as little as $20 for the others, “It was just a matter of principle.”
+ Paul Allen (front row, right):  Paul Allen, a childhood friend of Bill Gates, co-founded Microsoft with Gates in 1975 and resigned his day-to-day position in 1983 after he was diagnosed with Hodgkin’s disease (for which he was successfully treated), although he remained on Microsoft’s board of directors until 2000.  A variety of post-Microsoft investments, in technology companies and other areas of business (including ownership of the Seattle Seahawks football team and the Portland Trail Blazers basketball team) have helped bring him an estimated net worth of $17 billion. Like Bill Gates, he engages in philanthropic efforts through his chairmanship of the Paul G. Allen Family Foundation.
+ Bob O’Rear (second row, left):   In 1978 programmer Bob O’Rear was, at age 35, the oldest of the Microsoft staff members pictured above, and, as a native Texan, one of only two staffers who did not come from the Pacific Northwest area.  He was also one of the best-educated employees, a NASA engineer who held degrees in mathematics and physics.  He left the company in 1993 and now runs a cattle ranch in Texas in addition to serving on the boards of a variety of high-tech firms.
+ Bob Greenberg  (second row, second from left):   Bob Greenberg, who arranged the deal for the studio photograph displayed above, was a programmer Bill Gates knew from his Harvard days, hired in 1977 to help Microsoft create a new version of the BASIC programming language for a new Texas Instruments computer.  Greenberg proved invaluable for more than just his technical expertise, lending the fledgling company $7,000 during a financial crunch in mid-1977; although he left Microsoft in 1981, he went from one business juggernaut to another, helping the family business, Coleco, launch the Cabbage Patch Kids marketing craze of the 1980s. He now reportedly develops software for golf courses.
+
+ Marc McDonald (second row, second from right):  Marc McDonald is generally identified as Microsoft’s (then “Micro-Soft”) first employee, hired in 1976 to adapt BASIC for the new NCR 7200 machine.  (Although a couple of other people had worked for Microsoft on a contract basis, McDonald was the first hiree to draw a regular salary.)  Marc left Microsoft in 1984, reportedly disenchanted with the changes wrought by the company’s burgeoning growth, and went to work for fellow ex-Microsoft staffer Paul Allen’s new company, Asymetrix.  In an amusing coincidence, McDonald eventually ended up back at Microsoft when it acquired Design Intelligence, the Seattle-based software company for which he was then working.
+ Gordon Letwin (second row, right):   The initial 1978 meeting between Gordon Letwin and his future employer, Bill Gates, was somewhat contentious, according to the biography Gates:
+
+Befitting its role as a haven for soldering-iron types, Heath[kit] was now marketing its own computers, including a Z-80 machine with a homegrown edition of BASIC instead of the Microsoft version.
+As Bill Gates was attempting to correct this egregious error, he was introduced to a black-haired gnome by the name of Gordon Letwin, who proceeded to chew him out in front of a group of about fifteen people. Letwin, the author of Heath’s BASIC, felt his turf was being violated — and by the purveyor of an inferior product to boot. Bill Gates nonetheless prevailed, selling Heath his BASIC and FORTRAN for H-DOS, a proprietary operating system Letwin had developed for Heath. But Letwin had instinctively understood how to win the favor of William Henry Gates: Stand up to the guy. By the end of the year Gordon Letwin would come to work for Microsoft and begin work on a BASIC compiler.
+
+Among other projects, Gordon served as Microsoft’s chief architect for the development of the infamous OS/2 operating system and stayed with the company longer than any of the other staffers pictured above (with the exception of Bill Gates himself), finally leaving in 1993 to escape the day-to-day tech bustle and enjoy life.  He has reportedly contributed a substantial portion of the money he acquired during his tenure at Microsoft to various environmental causes.
+ Steve Wood (top row, left): Steve Wood was Microsoft’s first married employee, a Stanford graduate with a master’s degree who was hired in 1976 to help create a Microsoft version of FORTRAN.  Later, when Steve was serving as Microsoft’s office manager, his wife Marla joined the company as a clerical worker, eventually taking over all of Microsoft’s bookkeeping chores after Miriam Lubow stayed behind when the firm relocated from New Mexico to Washington.  Steve and Marla both left Microsoft in 1980 (as detailed above); in 1996, Steve Wood founded Wireless Services Corp. (now SinglePoint), a mobile messaging company.
+ Bob Wallace (top row, center):  Bob Wallace joined Microsoft in 1978 after responding to a photocopied ad that Paul Allen had left in the Seattle computer store where he worked.  He served as a production manager and software designer until 1983, when he became (like Marc McDonald would the following year) disenchanted with the changes in the company’s culture brought about by Microsoft’s success and growth:
+
+[Paul] Allen’s illness and departure coalesced uneasiness within the ranks of the remaining Albuquerquians — the core group that had helped establish Microsoft early, had followed their leader to Bellevue, had stuck with the company through some tumultuous years, and now found themselves being middle-managed into oblivion. In March 1983 Bob Wallace, in the best Microsoft tradition, got into a heated dispute with his supervisor over a technical point. The supervisor told him, “there’s nothing you can do about it, and you can’t talk to Bill about it … I’m the only one who can talk to Bill.”
+For Wallace, being barred from talking with Bill was not just a shock but an insult. He told his supervisor as much, half expecting Gates to intercede. When it didn’t happen, he resigned.
+
+In 1983 Bob Wallace started his own company, Quicksoft, which marketed the text-processing program PC-Write, generally touted as being the first (widely-used) shareware program.  He sold Quicksoft in 1991, moved to northern California a few years later, and — long interested in psychedelic drugs — started Mind Books (a bookstore offering literature about psychoactive plants and compounds) and the Promind Foundation (an organization dedicated to supporting scientific research and public education about psychedelics).   In 2002, Bob Wallace became the first (and so far the only) one of the eleven Microsoft staffers pictured above to pass away, succumbing to pneumonia at age 53.
+ Jim Lane (top row, right):  Jim Lane, who got his start with microcomputers at the Denver-based Digital Group, was hired by Microsoft in late 1978 (shortly before this picture was taken).  As a Microsoft project manager, he was a key figure in forging the partnership between Microsoft software and Intel’s microprocessors (a relationship symbolized by the development of the term “Wintel“).  He left Microsoft in 1985 (reportedly stating that the company had “beat the enthusiasm out of me”) to run his own software/consultancy business.
+Nearly thirty years later, just before Bill Gates stepped down from being involved in the day-to-day operations of Microsoft, the eleven staffers pictured above reunited for another photograph, with office manager Miriam Lubow (who missed the original sitting) taking the place of Bob Wallace (who died in 2002):
+
+
+
+Got a tip or a rumor? Contact us here.
+
+Fact Checker:
+David Mikkelson
+
+Published:18 June 2006
+Updated:11 July 2016
+Ask. Chat. Poke.
+
+6 February 2018
+								Facebook hasn't limited your feed to only a certain number of people, and sharing a post saying otherwise won't make any difference.			
+
+29 November 2017
+								Users of the iPhones running iOS 11 can make use of the feature but should take some precautions.			
+
+8 February 2018
+								Much ado was made on social media about the President's hair after a video aired of his boarding Air Force One on a windy day.			
+
+Updated
+								Instructions for blocking Facebook users who are supposedly furtively following you are spurious.			
+
+24 May 2016
+								Inaccurate warnings about an imminent ban on smoking in vehicles when minors are present have been circulating online since 2016.			
+
+6 February 2018
+								Facebook hasn't limited your feed to only a certain number of people, and sharing a post saying otherwise won't make any difference.			
+
+20 January 2018
+								The unprecedented finger-pointing took place amid a government shutdown and looming government worker furloughs.			
+
+Updated
+								Rumors that service station customers are getting stuck by HIV-loaded syringes affixed to gas pump handles are a hoax.			
+
+23 January 2018
+								Charles and Elizabeth Koch gave nearly half a million dollars to the House Speaker's fundraising committee after passage of the Republican tax bill.			
+
+5 November 2017
+								Reports that the perpetrator carried an Antifa flag and told churchgoers “this is a communist revolution” are fake news.			
+
+We are experiencing some issues with our feedback form. To reach us in the interim, please email contact@teamsnopes.com.
+
+
+We are experiencing some issues with our forms. Our development team is working on a solution.
+
