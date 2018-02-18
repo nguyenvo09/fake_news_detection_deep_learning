@@ -105,7 +105,20 @@ def process_urls_content(url_content_folder, parent):
         url_name = fn
         url_name = url_name.replace('\n', '')
         lines = []
+        ignored = ["Sign up for the Snopes.com newsletter and get daily updates on all the best rumors, news and legends delivered straight to your inbox.",
+                   "Know of a rumor you want investigated? Press related inquiry? Lonely and just want to chat?",
+                   "Select from one of these options to get in touch with us:",
+                   "We are experiencing some issues with our feedback form. To reach us in the interim, please email contact@teamsnopes.com.",
+                   "Got a tip or a rumor? Contact us here.",
+                   "We are experiencing some issues with our forms. Our development team is working on a solution.",
+                   "Ask. Chat. Poke."]
         for line in fin:
+            line = line.replace('\n', '')
+            if line in ignored:
+                print("yes")
+                continue
+            if line == "Fact Checker:":
+                break
             ll = []
             for x in line:
                 try:
@@ -132,7 +145,7 @@ def process_urls_content(url_content_folder, parent):
         # assert 'http://' in url_name or 'https://' in url_name, url_name
         dict_documents[url_name] = doc_dict
 
-    out_top_8K_words_file = '%s/out_top_8K_words_file.txt' % parent
+    out_top_8K_words_file = '%s/out_top_16K_words_file.txt' % parent
     top8000 = compute_tfidf(dict_documents)
     fout = open(out_top_8K_words_file, 'w')
     cnt = 0
@@ -140,7 +153,7 @@ def process_urls_content(url_content_folder, parent):
         try:
             fout.write('%s %s %s\n' % (cnt, w, tfidf_vl))
             cnt += 1
-            if cnt == 8000:
+            if cnt == 16000:
                 break
         except:
             print("DKM: ", w)
@@ -153,26 +166,45 @@ def selectTop8000Words_based_tfidf():
 
 
 def sentence_tokenize(infoloder='webscrapedtext', outfolder='sentences_tokenized'):
-    '''build sententences based on top 8000 selected words'''
+    '''build sententences based on top 8000 selected words.
+    The first line of each document is the URL
+    '''
     if not os.path.exists(outfolder):
         os.mkdir(outfolder)
 
     dict_selected_tokens = {}
-    fin1 = open('out_top_8K_words_file.txt', 'r')
+    fin1 = open('out_top_16K_words_file.txt', 'r')
     for line in fin1:
         _, w, _ = line.split()
         dict_selected_tokens[w] = 1
-    assert len(dict_selected_tokens) == 8000
+    assert len(dict_selected_tokens) == 16000
     documents = [fn for fn in listdir(infoloder) if fn.endswith('.txt')]
     print("Numober of urls in this fold: ", len(documents))
     dict_documents = {}
+    infolder2 = 'crawled_websites'
+    ignored = [
+        "Sign up for the Snopes.com newsletter and get daily updates on all the best rumors, news and legends delivered straight to your inbox.",
+        "Know of a rumor you want investigated? Press related inquiry? Lonely and just want to chat?",
+        "Select from one of these options to get in touch with us:",
+        "We are experiencing some issues with our feedback form. To reach us in the interim, please email contact@teamsnopes.com.",
+        "Got a tip or a rumor? Contact us here.",
+        "We are experiencing some issues with our forms. Our development team is working on a solution.",
+        "Ask. Chat. Poke."]
     for fn in documents:
         p = join(infoloder, fn)
         fin = open(p, 'r')
-        url_name = fn
-        url_name = url_name.replace('\n', '')
+        fin2 = open(join(infolder2, '%s.html' % fn.split('.')[0]), 'r')
+        url_name = fin2.readline().replace('\n', '')
+        assert 'http' in url_name
+        # url_name = url_name.replace('\n', '')
         lines = []
         for line in fin:
+            line = line.replace('\n', '')
+            if line in ignored:
+                print("yes")
+                continue
+            if line == 'Fact Checker:':
+                break
             ll = []
             for x in line:
                 try:
@@ -189,6 +221,7 @@ def sentence_tokenize(infoloder='webscrapedtext', outfolder='sentences_tokenized
         all = ' '.join(lines)
         sent_tokenize_list = sent_tokenize(all)
         fout = open('%s/%s' % (outfolder, fn), 'w')
+        fout.write('%s\n' % url_name)
         for sent in sent_tokenize_list:
             if sent == "":
                 continue
@@ -202,7 +235,70 @@ def sentence_tokenize(infoloder='webscrapedtext', outfolder='sentences_tokenized
             sent = ' '.join(res)
             fout.write('%s\n' % sent)
 
+def divide_dataset_into_5parts(infolder= 'sentences_tokenized', outfolder='train_test_data'):
+    '''
+    We ramdomly divide dataset into 80% training and 20% for testing.
+    We guarantee the distribution of two classes are same
+    We repeat the above evaluation scheme five times and report the average accuracy.
+    :return:
+    '''
+    documents = [fn for fn in listdir(infolder) if fn.endswith('.txt')]
+    dict_url_index = {}
+    for idx, fn in enumerate(documents):
+        p = join(infolder, fn)
+        fin = open(p, 'r')
+        url = fin.readline().replace('\n', '')
+        # print(url)
+        assert 'http' in url
+        dict_url_index[url] = (p, fn)
+
+
+    if not os.path.exists(outfolder):
+        os.mkdir(outfolder)
+    ground_truth = 'snopes_ground_truth.csv'
+    df = pd.read_csv(ground_truth)
+    df1 = df.loc[df['claim_label'] == True]
+    df2 = df.loc[df['claim_label'] == False]
+    s1 = zip(df1['snopes_page'], df1['claim_label'])
+    s2 = zip(df2['snopes_page'], df2['claim_label'])
+    # print(s1, len(s1))
+    # print(s2, len(s2))
+    assert len(s1) == len(s2)
+    for i in xrange(5):
+        p1 = '%s/data_%s' % (outfolder, i)
+        if not os.path.exists(p1):
+            os.mkdir(p1)
+
+        train_folder = '%s/train' % p1
+        test_folder = '%s/test' % p1
+        if not os.path.exists(train_folder):
+            os.mkdir(train_folder)
+        if not os.path.exists(test_folder):
+            os.mkdir(test_folder)
+
+        random.shuffle(s1)
+        random.shuffle(s2)
+        N = len(s1)
+        first = int(0.8*N)
+        train = s1[:first] + s2[:first]
+        test = s1[first:N] + s2[first:N]
+        print(len(train), len(test))
+
+        for url, claim_label in train:
+            assert url in dict_url_index, url
+            src, name = dict_url_index[url]
+            dest = '%s/%s' % (train_folder, name)
+            copyfile(src, dest)
+
+        for url, claim_label in test:
+            assert url in dict_url_index
+            src, name = dict_url_index[url]
+            dest = '%s/%s' % (test_folder, name)
+            copyfile(src, dest)
+
+
 if __name__ == '__main__':
     print("TODO")
     # selectTop8000Words_based_tfidf()
-    sentence_tokenize()
+    # sentence_tokenize()
+    divide_dataset_into_5parts()
