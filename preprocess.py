@@ -303,6 +303,8 @@ def process_wordcloud():
     for line in fin:
         idx, w, vl = line.split()
         fout.write('%s,%s,%s\n' % (idx, w, vl))
+
+
 if __name__ == '__main__':
     print("TODO")
     # selectTop8000Words_based_tfidf()
