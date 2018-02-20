@@ -22,8 +22,8 @@ import nltk
 import math
 from nltk.corpus import stopwords
 stop_words = set(stopwords.words('english'))
-reload(sys)
-sys.setdefaultencoding('utf-8')
+# reload(sys)
+# sys.setdefaultencoding('utf-8')
 from nltk.tokenize import sent_tokenize
 
 def inverse_document_frequencies(tokenized_documents):
@@ -296,9 +296,16 @@ def divide_dataset_into_5parts(infolder= 'sentences_tokenized', outfolder='train
             dest = '%s/%s' % (test_folder, name)
             copyfile(src, dest)
 
-
+def process_wordcloud():
+    fin = open('out_top_16K_words_file.txt', 'r')
+    fout = open('top16K_words.csv', 'w')
+    fout.write('idx,word,tfidf\n')
+    for line in fin:
+        idx, w, vl = line.split()
+        fout.write('%s,%s,%s\n' % (idx, w, vl))
 if __name__ == '__main__':
     print("TODO")
     # selectTop8000Words_based_tfidf()
     # sentence_tokenize()
-    divide_dataset_into_5parts()
+    # divide_dataset_into_5parts()
+    process_wordcloud()
