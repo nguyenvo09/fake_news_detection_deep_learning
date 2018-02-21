@@ -1,4 +1,4 @@
-# fake_news_detection_deep_learning
+# Fake News Detection With Deep Learning
 This repository is for Fake News Detection using Deep Learning models
 
 ## Motivation
@@ -17,3 +17,7 @@ We already built many traditional machine learning models as baselines. We also 
 ![alt text](https://github.com/nguyenvo09/fake_news_detection_deep_learning/blob/master/visualize1.PNG)
 and 
 ![alt text](https://github.com/nguyenvo09/fake_news_detection_deep_learning/blob/master/visualize2.PNG)
+
+### Future work
+* Trying other deep learning models such as Auto-Encoders, GAN, CNN
+
