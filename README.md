@@ -12,7 +12,7 @@ We get the ground truth data from https://www.kaggle.com/arminehn/rumor-citation
 * Using multiple data sources to detect fake news. 
 
 ### Current progress
-We already built many traditional machine learning models as baselines. We also already implemented a deep learning model called Bi-directional GRU with Attention mechanisum which was originally proposed by Yang el al., [http://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf]. We implemented this model for fake news detection domain. Some visualizations of attention weights learned by this model is shown in https://github.com/nguyenvo09/fake_news_detection_deep_learning/blob/master/biGRU_attention.ipynb 
+We already built many traditional machine learning models as baselines. We also already implemented a deep learning model called Bi-directional GRU with Attention mechanisum which was originally proposed by Yang el al., [http://www.cs.cmu.edu/~./hovy/papers/16HLT-hierarchical-attention-networks.pdf]. We implemented this model for fake news detection domain. Some visualizations of attention weights learned by this model is shown in https://github.com/nguyenvo09/fake_news_detection_deep_learning/blob/master/biGRU_attention.ipynb. We also use the Attention layer code implemented by @ilivans. Thanks. 
 
 ![alt text](https://github.com/nguyenvo09/fake_news_detection_deep_learning/blob/master/visualize1.PNG)
 and 
@@ -20,4 +20,6 @@ and
 
 ### Future work
 * Trying other deep learning models such as Auto-Encoders, GAN, CNN
+
+
 
