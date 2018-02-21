@@ -21,5 +21,8 @@ and
 ### Future work
 * Trying other deep learning models such as Auto-Encoders, GAN, CNN
 
+### References
+[1] Hierarchical Attention Networks for Document Classification, Zichao Yang, Diyi Yang, Chris Dyer, Xiaodong He, Alex Smola, Eduard Hovy, 2016 NAACL 
+
 
 
