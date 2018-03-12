@@ -1,4 +1,0 @@
-We get dataset from Kaggle, 
-We only select true or false news. Totally, there are 281 true news and 1866 fake news. Due to imbalanced dataset, we randomly select 281 fake news from the pool 1866 fake news. 
-After that, we crawl web-content of these news. 
-LOL

@@ -305,9 +305,17 @@ def process_wordcloud():
         fout.write('%s,%s,%s\n' % (idx, w, vl))
 
 
+def genPathToRemove():
+    base = 'hadoop fs -rm -R /user/nkvo/twitter_data/GeoData/2017/%s/%2d/@eaDir'
+    for i in range(1, 13):
+        for j in range(1, 32):
+            print 'hadoop fs -rm -R /user/nkvo/twitter_data/GeoData/2017/%02d/%02d/@eaDir' % (i, j)
+
+
 if __name__ == '__main__':
     print("TODO")
     # selectTop8000Words_based_tfidf()
     # sentence_tokenize()
     # divide_dataset_into_5parts()
-    process_wordcloud()
+    # process_wordcloud()
+    genPathToRemove()
